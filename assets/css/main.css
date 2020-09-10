@@ -2310,3 +2310,6 @@ input, select, textarea {
 			}
 
 		}
+			#example-list {
+				column-count: 3;
+		}
